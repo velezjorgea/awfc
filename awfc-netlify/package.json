@@ -1,0 +1,10 @@
+{
+  "name": "awfc-fines-book",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Alconbury Weald FC fines book: weekly fines sheet, dashboards and Excel report.",
+  "dependencies": {
+    "@netlify/blobs": "^11.1.4"
+  }
+}
